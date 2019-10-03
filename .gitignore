@@ -1,2 +1,6 @@
 .Rapp.history
 .DS_Store
+
+*.zip
+data/fanniemae/*
+data/freddiemac/*
